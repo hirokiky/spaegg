@@ -28,7 +28,7 @@ and no requirements.
 Usage
 =====
 
-To run spaegg server, just run by `spaegg` command:
+To run spaegg server, just run by `spaegg` command::
 
     spaegg
 
