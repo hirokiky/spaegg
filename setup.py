@@ -31,7 +31,7 @@ setup(
     install_requires=[],
     entry_points={
         'console_scripts': [
-            'spaegg = spaegg.commands.main:run',
+            'spaegg = spaegg.commands:run',
         ]
     }
 )
